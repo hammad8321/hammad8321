@@ -25,7 +25,7 @@ TypeScript to ensure clean and maintainable code
 I'm always open to collaboration and enjoy contributing to projects that have a positive impact. Feel free to explore my repositories and reach out if you'd like to connect!
 
 
-[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad8321)](https://github.com/hammad8321/github-readme-stats)
+[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad8321)] https://github.com/hammad8321
 
 
 
@@ -35,6 +35,7 @@ I'm always open to collaboration and enjoy contributing to projects that have a 
 <!--
 **hammad8321/hammad8321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad8321)](https://github.com/hammad8321/github-readme-stats)
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
