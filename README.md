@@ -11,7 +11,7 @@ TypeScript to ensure clean and maintainable code
 I'm always open to collaboration and enjoy contributing to projects that have a positive impact. Feel free to explore my repositories and reach out if you'd like to connect!
 
 
-[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=hammad)](https://github.com/anuraghazra/github-readme-stats)
+[![Hammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hammad)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
