@@ -1,6 +1,9 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+
+
+<img src="https://media.licdn.com/dms/image/v2/C5616AQGQ_TpCFvtnGg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1626748711184?e=1733961600&v=beta&t=9r5Kztrj5HsfGuRU962RFkk4ml8nqJoNRRTv7f_wD_0" alt="Life Lesson">
 
 <p align="center"> 
   Visitor count<br>
@@ -31,6 +34,9 @@ I'm always open to collaboration and enjoy contributing to projects that have a 
 
 <!--
 **hammad8321/hammad8321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 Here are some ideas to get you started:
 
