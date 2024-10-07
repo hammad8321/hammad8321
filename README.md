@@ -1,3 +1,14 @@
+# Hey there :wave:
+
+<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/hammad8321/count.svg" />
+</p>
+
+
+
 ## Hi 👋 Welcome to My Git Page
 
 I am hammad From Australia, a passionate software developer. With a keen eye for clean, efficient, and scalable code, I’m constantly exploring new ways to build robust applications.
