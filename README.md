@@ -14,7 +14,7 @@
 
 ## Hi 👋 Welcome to My Git Page
 
-I am hammad From Australia, a passionate software developer. With a keen eye for clean, efficient, and scalable code, I’m constantly exploring new ways to build robust applications.
+I am <strong>Hammad</strong>. From Australia, a passionate software developer. With a keen eye for clean, efficient, and scalable code, I’m constantly exploring new ways to build robust applications.
 
 I'm a enthusiast software developer with a strong focus on building modern web applications using .NET, React, and TypeScript. I enjoy creating efficient and scalable solutions while constantly learning new technologies and improving my skills.
 
